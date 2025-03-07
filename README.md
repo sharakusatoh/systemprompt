@@ -1,6 +1,6 @@
 # About Sharaku Satoh
 
-**Sharaku Satoh** is a Japan-based **prompt engineer** specializing in **system prompt design and research**. In addition to his design work, he also serves as a lecturer on AI utilization and prompt engineering.
+I am a Japan-based **prompt engineer** specializing in **system prompt design and research**. In addition to my design work, I also serves as a lecturer on AI utilization and prompt engineering.
 
 ### Achievements
 - Winner of **Oshiete AI by GMO Prompt Contest (GPTs Category)**:  
