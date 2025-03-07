@@ -1,4 +1,4 @@
-# About Me
+# About Sharaku Satoh
 
 I am **Sharaku Satoh**, a Japan-based **prompt engineer** specializing in **system prompt design and research**. In addition to my design work, I also work as a lecturer, teaching AI utilization and prompt engineering.
 
