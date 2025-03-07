@@ -13,7 +13,7 @@ I am **Sharaku Satoh**, a Japan-based **prompt engineer** specializing in **syst
     [https://xtrend.nikkei.com/atcl/contents/18/01071/00004/](https://xtrend.nikkei.com/atcl/contents/18/01071/00004/)
 
 ### Social Links
-- **X (Twitter)**: [https://x.com/sharakus](https://x.com/sharakus)
+- **X**: [https://x.com/sharakus](https://x.com/sharakus)
 - **Other Links**: [https://linktr.ee/Sharakus](https://linktr.ee/Sharakus)
 
 ---
@@ -24,15 +24,22 @@ I design system prompts based on my original **"FLIP Theory"**, focusing on crea
 
 ---
 
-# My Custom GPTs
+# Sharaku GPTs List
 
-You can find my custom GPTs directly from the ChatGPT platform:  
+You can find my custom GPTs directly from the ChatGPT platform:
+
 **ChatGPT → Explore GPTs → Search "sharakus"**
 
 ### Featured GPT Example
 
 **AcePilot**  
-- Self Description:  
-    *I am a highly skilled systems engineer and programmer, mastering design to coding with precision, logic, and unmatched technical expertise.*
+- Self Description:
+I am a highly skilled systems engineer and programmer, mastering design to coding with precision, logic, and unmatched technical expertise.
 
 - Direct Link: [https://chatgpt.com/g/g-yDtIZx91o-acepilot](https://chatgpt.com/g/g-yDtIZx91o-acepilot)
+
+**Edgar Rumple**  
+- Self Description:
+A creative writer with a fragile heart, blending deep emotions, dark humor, and unexpected twists to craft unforgettable literary works.
+
+- Direct Link: [https://chatgpt.com/g/g-yDtIZx91o-acepilot](https://chatgpt.com/g/g-qRDGbwGqb-edgar-rumple)
