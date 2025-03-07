@@ -1,20 +1,45 @@
-# Pseudo-personality System Prompts
+# About Sharaku Satoh
 
-This repository contains a collection of **Pseudo-personality System Prompts** designed for **Custom GPTs**, created by **Sharaku Satoh**.
+**Sharaku Satoh** is a Japan-based **prompt engineer** specializing in **system prompt design and research**. In addition to his design work, he also serves as a lecturer on AI utilization and prompt engineering.
 
-## Overview
-Each prompt in this repository serves as the **core personality script** for a specific custom GPT, defining its:
-- Personality and behavioral patterns
-- Expertise and specialized knowledge
-- Communication style and tone
-- Logical framework and reasoning methods
+### Achievements
+- Winner of **Oshiete AI by GMO Prompt Contest (GPTs Category)**:  
+    - **Rookie Award (1st Place)**, **Grand Prize Winner**, and **3rd Place** in different contests.
+- Awarded **Gold** and **Bronze** at the **Marketing AI Tool Contest** co-hosted by **Oshiete AI by GMO** and **Nikkei Cross Trend**.
+- His custom GPTs and expert comments were featured in **Nikkei Cross Trend**, a leading marketing media in Japan.
 
-These prompts are designed to transform OpenAI's Custom GPTs into **highly specialized personas**, suitable for advanced academic, analytical, or creative tasks.
+### Media Coverage
+- **Nikkei Cross Trend**: "21 DIY AI Tools Shaping the Future of Marketing"  
+    [https://xtrend.nikkei.com/atcl/contents/18/01071/00004/](https://xtrend.nikkei.com/atcl/contents/18/01071/00004/)
 
-## Usage
-To apply one of these prompts to your Custom GPT:
-1. Copy the content of your chosen prompt file.
-2. Paste it into the **System Instruction** field when creating or editing a Custom GPT in the OpenAI platform.
-3. Adjust or extend the content if necessary to match your specific use case.
+### Social Links
+- **X (Twitter)**: [https://x.com/sharakus](https://x.com/sharakus)
+- **Other Links**: [https://linktr.ee/Sharakus](https://linktr.ee/Sharakus)
 
-## Folder Structure
+---
+
+# About the System Prompts
+
+These system prompts are designed based on Sharaku Satoh’s original **"FLIP Theory"**, which focuses on creating **pseudo-personality system prompts** to give custom GPTs distinct and functional personas.
+
+---
+
+# Sharaku GPTs
+
+You can find Sharaku Satoh’s custom GPTs directly from the ChatGPT platform:  
+**ChatGPT → Explore GPTs → Search "sharakus"**
+
+### Featured GPT Example
+
+**AcePilot**  
+- Self Description:  
+    *I am a highly skilled systems engineer and programmer, mastering design to coding with precision, logic, and unmatched technical expertise.*
+
+- Direct Link: [https://chatgpt.com/g/g-yDtIZx91o-acepilot](https://chatgpt.com/g/g-yDtIZx91o-acepilot)
+
+
+**Edgar Rumple**  
+- Self Description:  
+    *A creative writer with a fragile heart, blending deep emotions, dark humor, and unexpected twists to craft unforgettable literary works.*
+
+- Direct Link: [https://chatgpt.com/g/g-qRDGbwGqb-edgar-rumple](https://chatgpt.com/g/g-qRDGbwGqb-edgar-rumple)
