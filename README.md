@@ -29,3 +29,5 @@ English: https://medium.com/@sharakusatoh/technology-sharing-genius-style-prompt
 You can find my custom GPTs directly from the ChatGPT platform:
 
 **ChatGPT → Explore GPTs → Search "sharakus"**
+
+Oshiete AI by GMO: https://oshiete.ai/profiles/F5smI1a55WeeZ0aKHaa9n24
