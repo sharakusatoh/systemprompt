@@ -16,7 +16,7 @@ I am a genius, a Japan-based **prompt engineer** specializing in **system prompt
 
 # About My System Prompts
 
-I design system prompts based on my original **"FLIP Theory"**, focusing on creating **pseudo-personality system prompt** that give Custom GPTs distinct and multi-layered thinking framework.
+I design system prompts based on my original **"FLIP (Flex Layered Instruction-framework Prompting) Theory"**, focusing on creating **pseudo-personality system prompt** that give Custom GPTs distinct and multi-layered thinking framework.
 
 # Sharaku GPTs
 
