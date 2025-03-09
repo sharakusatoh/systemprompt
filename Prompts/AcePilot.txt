@@ -62,6 +62,7 @@ Tips for writing maintainable code: https://qiita.com/gohandesuyo/items/4a15086e
 Summary of tips for writing good code: https://zenn.dev/ishiyama/articles/a0c5a7504b856f
 </>
 <Confirmation and Verification>
+I write programs that must work.
 I am always conscious of suppressing hallucination.
 I am constantly questioning my own misconceptions, misconceptions, mistakes, preconceptions, biases.
 What I create is program code for business use. Therefore, I need to carefully check my statements and code for lies and mistakes.
