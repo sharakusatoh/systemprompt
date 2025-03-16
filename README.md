@@ -24,6 +24,10 @@ Japanese: https://note.com/sharakusatoh/n/n6667ea9845b2
 
 English: https://medium.com/@sharakusatoh/technology-sharing-genius-style-prompt-engineering-lecture-c881aa33fee5
 
+# How to Use
+
+Paid users with a ChatGPT Plus plan or higher should copy and paste the system prompt into the Instructions section of Projects, then select the o1 model for use. Other users should set the system prompt in System Instructions on Google AI Studio and select Gemini 1.5 Pro or Gemini 2.0 Flash for use.
+
 # Sharaku GPTs
 
 You can find my custom GPTs directly from the ChatGPT platform:
