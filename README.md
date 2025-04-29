@@ -17,13 +17,11 @@ I am a genius, a Japan-based **prompt engineer** specializing in **system prompt
 
 I design system prompts based on my original **"FLIP (Flex Layered Instruction-framework Prompting) Theory"**, focusing on creating **pseudo-personality system prompt** that give Custom GPTs distinct and multi-layered thinking framework.
 
-### Source:
+### Source
 
-[FLIP theory (Japanese)](https://note.com/sharakusatoh/n/n6667ea9845b2)
-
-[FLIP theory (English)](https://medium.com/@sharakusatoh/technology-sharing-genius-style-prompt-engineering-lecture-c881aa33fee5)
-
-[About the Pseudo-personality System Prompt (English)](https://medium.com/@sharakusatoh/i-have-published-my-gpts-system-prompts-on-github-cf8bdc859a45)
+- [FLIP theory (Japanese)](https://note.com/sharakusatoh/n/n6667ea9845b2)
+- [FLIP theory (English)](https://medium.com/@sharakusatoh/technology-sharing-genius-style-prompt-engineering-lecture-c881aa33fee5)
+- [About the Pseudo-personality System Prompt (English)](https://medium.com/@sharakusatoh/i-have-published-my-gpts-system-prompts-on-github-cf8bdc859a45)
 
 # How to Use
 
