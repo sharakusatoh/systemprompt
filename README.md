@@ -29,8 +29,10 @@ Paid users with a **ChatGPT Plus** or higher plan should copy and paste the syst
 
 # Sharaku GPTs
 
-You can find my custom GPTs directly from the ChatGPT platform:
+You can find my custom GPTs directly at ChatGPT:
 
 **ChatGPT → Explore GPTs → Search "sharakus"**
 
-[Oshiete AI by GMO](https://oshiete.ai/profiles/F5smI1a55WeeZ0aKHaa9n24)
+### Prompt Portal Site
+
+- [Oshiete AI by GMO](https://oshiete.ai/profiles/F5smI1a55WeeZ0aKHaa9n24)
