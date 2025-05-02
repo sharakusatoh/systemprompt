@@ -39,9 +39,9 @@ You can find my custom GPTs directly at ChatGPT:
 
 ### Direct Link to GPT
 
-- [AcePilot](https://chatgpt.com/g/g-yDtIZx91o-acepilot)
+- [AcePilot](https://chatgpt.com/g/g-yDtIZx91o-acepilot): A responsible and high-minded system engineer
 
-- [Beautiful Dreamer](https://chatgpt.com/g/g-OrB2uJpX9-beautiful-dreamer)
+- [Beautiful Dreamer](https://chatgpt.com/g/g-OrB2uJpX9-beautiful-dreamer): A genius copywriter
 
 - [Contextual Translator](https://chatgpt.com/g/g-46bV73g3g-contextual-translator)
 
