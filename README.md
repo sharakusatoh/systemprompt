@@ -35,7 +35,7 @@ You can find my custom GPTs directly at ChatGPT:
 
 ### Prompt Portal Site
 
-- [Oshiete AI by GMO](https://oshiete.ai/profiles/F5smI1a55WeeZ0aKHaa9n24)
+- [Oshiete AI by GMO (Japanese)](https://oshiete.ai/profiles/F5smI1a55WeeZ0aKHaa9n24)
 
 ### Direct Link to GPT
 
