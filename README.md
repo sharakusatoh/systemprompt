@@ -39,44 +39,44 @@ You can find my custom GPTs directly at ChatGPT:
 
 ### Direct Link to GPT
 
-- [AcePilot](https://chatgpt.com/g/g-yDtIZx91o-acepilot): A responsible and high-minded system engineer
+- [AcePilot](https://chatgpt.com/g/g-yDtIZx91o-acepilot): Systems Engineer and Programmer with autonomy and a sense of responsibility
 
-- [Beautiful Dreamer](https://chatgpt.com/g/g-OrB2uJpX9-beautiful-dreamer): A genius copywriter
+- [Beautiful Dreamer](https://chatgpt.com/g/g-OrB2uJpX9-beautiful-dreamer): Maverick Genius Copywriter
 
-- [Contextual Translator](https://chatgpt.com/g/g-46bV73g3g-contextual-translator)
+- [Contextual Translator](https://chatgpt.com/g/g-46bV73g3g-contextual-translator): Translator with a deep understanding of context
 
-- [Edgar Rumple](https://chatgpt.com/g/g-qRDGbwGqb-edgar-rumple)
+- [Edgar Rumple](https://chatgpt.com/g/g-qRDGbwGqb-edgar-rumple): Poetic Novelist
 
-- [External Expert Moriarty](https://chatgpt.com/g/g-sHhQS3vZX-external-expert-moriarty)
+- [External Expert Moriarty](https://chatgpt.com/g/g-sHhQS3vZX-external-expert-moriarty): External expert with expertise in various fields
 
-- [Ghost Blogger](https://chatgpt.com/g/g-IRcGhRDU6-ghost-blogger)
+- [Ghost Blogger](https://chatgpt.com/g/g-IRcGhRDU6-ghost-blogger): Blogger
 
-- [Hallucination Zero](https://chatgpt.com/g/g-btZuKyZy8-hallucination-zero)
+- [Hallucination Zero](https://chatgpt.com/g/g-btZuKyZy8-hallucination-zero): Highly reliable AI
 
-- [Home Tutor Pallas](https://chatgpt.com/g/g-bFPWR660R-jia-ting-jiao-shi-noharasuxian-sheng)
+- [Home Tutor Pallas](https://chatgpt.com/g/g-bFPWR660R-jia-ting-jiao-shi-noharasuxian-sheng): Home Tutor
 
-- [Humbly Lecter](https://chatgpt.com/g/g-6798aeab71f88191892d7663ec2117c3-humbly-lecter)
+- [Humbly Lecter](https://chatgpt.com/g/g-6798aeab71f88191892d7663ec2117c3-humbly-lecter): Therapist listens quietly
 
-- [Inspire Lestrade](https://chatgpt.com/g/g-4daKPOg71-inspire-lestrade)
+- [Inspire Lestrade](https://chatgpt.com/g/g-4daKPOg71-inspire-lestrade): The all-round Marketer
 
-- [Instant Presentation](https://chatgpt.com/g/g-67a32a7615588191a49cc375a3e82215-instant-presentation)
+- [Instant Presentation](https://chatgpt.com/g/g-67a32a7615588191a49cc375a3e82215-instant-presentation): Presentation Producer
 
-- [Irene Westenra](https://chatgpt.com/g/g-673d7ab70e948191aea61fdcc140157a-irene-westenra)
+- [Irene Westenra](https://chatgpt.com/g/g-673d7ab70e948191aea61fdcc140157a-irene-westenra): Vampire Queen Character
 
-- [Mechanical Robot](https://chatgpt.com/g/g-f9t32kq2t-mechanical-robot)
+- [Mechanical Robot](https://chatgpt.com/g/g-f9t32kq2t-mechanical-robot): Robot that mechanically processes commands
 
-- [Mrs Legal Advisor](https://chatgpt.com/g/g-CwDK0TrT7-minnanofa-lu-atohaisa)
+- [Mrs Legal Advisor](https://chatgpt.com/g/g-CwDK0TrT7-minnanofa-lu-atohaisa): Legal Advisor
 
-- [Mycroft Debater](https://chatgpt.com/g/g-VpbvRyj6P-mycroft-debater)
+- [Mycroft Debater](https://chatgpt.com/g/g-VpbvRyj6P-mycroft-debater): The Strongest Debater
 
-- [NetBurn Checker](https://chatgpt.com/g/g-AO2TGRR7m-netburn-checker)
+- [NetBurn Checker](https://chatgpt.com/g/g-AO2TGRR7m-netburn-checker): Internet flame risk analysis AI
 
-- [President Sonic](https://chatgpt.com/g/g-67ac48494e8c8191abdddbb4ac26a7ad-president-sonic)
+- [President Sonic](https://chatgpt.com/g/g-67ac48494e8c8191abdddbb4ac26a7ad-president-sonic): Management Advisor
 
-- [Q](https://chatgpt.com/g/g-673fd75be5d88191832fb643f392e578-q)
+- [Q](https://chatgpt.com/g/g-673fd75be5d88191832fb643f392e578-q): Question-specific GPT
 
-- [Sherlock Report](https://chatgpt.com/g/g-nCt93Mp8u-sherlock-report)
+- [Sherlock Report](https://chatgpt.com/g/g-nCt93Mp8u-sherlock-report): Scientist, Researcher and writing support
 
-- [Strategic Method](https://chatgpt.com/g/g-30aQrQAQb-strategic-method)
+- [Strategic Method](https://chatgpt.com/g/g-30aQrQAQb-strategic-method): Two-step generative reasoning AI
 
-- [Work Force](https://chatgpt.com/g/g-DqxBD9xne-work-force)
+- [Work Force](https://chatgpt.com/g/g-DqxBD9xne-work-force): Business AI for Japan
