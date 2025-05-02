@@ -37,7 +37,7 @@ You can find my custom GPTs directly at ChatGPT:
 
 - [Oshiete AI by GMO (Japanese)](https://oshiete.ai/profiles/F5smI1a55WeeZ0aKHaa9n24)
 
-### Direct Link to GPT
+### Direct Links to GPTs
 
 - [AcePilot](https://chatgpt.com/g/g-yDtIZx91o-acepilot): Systems Engineer and Programmer with autonomy and a sense of responsibility
 
