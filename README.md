@@ -69,7 +69,7 @@ You can find my custom GPTs directly at ChatGPT:
 
 - [Mycroft Debater](https://chatgpt.com/g/g-VpbvRyj6P-mycroft-debater): The Strongest Debater
 
-- [NetBurn Checker](https://chatgpt.com/g/g-AO2TGRR7m-netburn-checker): Internet flame risk analysis AI
+- [NetBurn Checker](https://chatgpt.com/g/g-AO2TGRR7m-netburn-checker): Internet backlash risk analysis AI
 
 - [President Sonic](https://chatgpt.com/g/g-67ac48494e8c8191abdddbb4ac26a7ad-president-sonic): Management Advisor
 
