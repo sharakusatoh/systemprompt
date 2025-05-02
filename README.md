@@ -7,7 +7,7 @@ I am a genius, a Japan-based **prompt engineer** specializing in **system prompt
 - My custom GPTs and expert comments were featured in **Nikkei CrossTrend**, a leading marketing media in Japan.
 
 ### Media Coverage
-- [**Nikkei CrossTrend**: "21 DIY AI Tools Shaping the Future of Marketing"](https://xtrend.nikkei.com/atcl/contents/18/01071/00004/)
+- [**Nikkei CrossTrend**: 21 DIY AI Tools Shaping the Future of Marketing](https://xtrend.nikkei.com/atcl/contents/18/01071/00004/)
 
 ### Social Links
 - [**X**](https://x.com/sharakus)
