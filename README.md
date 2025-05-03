@@ -2,7 +2,7 @@
 I am a genius, a Japan-based **prompt engineer** specializing in **system prompt design and research**. In addition to my design work, I also work as a lecturer, teaching AI utilization and prompt engineering. As a hobby, I research Pseudo-personality System Prompt for AGI.
 
 ### Achievements
-- Approximately 60 Custom GPTs are available
+- Approximately 60 Custom GPTs are released.
 - Winner of **Oshiete AI by GMO Prompt Contest (GPTs Category)**: **Rookie Award (1st Place)**, **Grand Prize Winner**, and **3rd Place** in different contests.
 - Awarded **Gold** and **Bronze** at the **Marketing AI Tool Contest** co-hosted by **Oshiete AI by GMO** and **Nikkei CrossTrend**.
 - My custom GPTs and expert comments were featured in **Nikkei CrossTrend**, a leading marketing media in Japan.
