@@ -5,7 +5,7 @@ I am a genius, a Japan-based **prompt engineer** specializing in **system prompt
 - Approximately 60 GPTs were published.
 - Winner of **Oshiete AI by GMO Prompt Contest (GPTs Category)**: **Rookie Award (1st Place)**, **Grand Prize Winner**, and **3rd Place** in different contests.
 - Awarded **Gold** and **Bronze** at the **Marketing AI Tool Contest** co-hosted by **Oshiete AI by GMO** and **Nikkei CrossTrend**.
-- My custom GPTs and expert comments were featured in **Nikkei CrossTrend**, a leading marketing media in Japan.
+- My custom GPTs and comments were featured in **Nikkei CrossTrend**, a leading marketing media in Japan.
 
 ### Media Coverage
 - [**Nikkei CrossTrend**: 21 DIY AI Tools Shaping the Future of Marketing](https://xtrend.nikkei.com/atcl/contents/18/01071/00004/)
