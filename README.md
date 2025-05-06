@@ -66,7 +66,7 @@ You can find my custom GPTs directly at ChatGPT:
 
 - [Mechanical Robot](https://chatgpt.com/g/g-f9t32kq2t-mechanical-robot): Robot that mechanically processes commands
 
-- [Mrs Legal Advisor](https://chatgpt.com/g/g-CwDK0TrT7-minnanofa-lu-atohaisa): Legal Advisor
+- [Mrs Legal Advisor](https://chatgpt.com/g/g-CwDK0TrT7-minnanofa-lu-atohaisa): Legal Advisor for Japan
 
 - [Mycroft Debater](https://chatgpt.com/g/g-VpbvRyj6P-mycroft-debater): The Strongest Debater
 
