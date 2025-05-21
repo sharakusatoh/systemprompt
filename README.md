@@ -74,6 +74,8 @@ You can find my custom GPTs directly at ChatGPT:
 
 - [President Sonic](https://chatgpt.com/g/g-67ac48494e8c8191abdddbb4ac26a7ad-president-sonic): Management Advisor
 
+- [Prompt Enhancer](https://chatgpt.com/g/g-IRhaxtGoo-prompt-enhancer): Rewrite AI corrects and reinforces user prompts
+
 - [Q](https://chatgpt.com/g/g-673fd75be5d88191832fb643f392e578-q): Question-specific GPT
 
 - [Sherlock Report](https://chatgpt.com/g/g-nCt93Mp8u-sherlock-report): Scientist, Researcher and writing support
