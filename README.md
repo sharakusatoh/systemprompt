@@ -26,7 +26,7 @@ I design system prompts based on my original **"FLIP (Flex Layered Instruction-f
 
 # How to Use
 
-Paid users with a **ChatGPT Plus** or higher plan should copy and paste the system prompt into the Instructions section of GPTs, or Projects then select the **o3** or **GPT-4.5** for use. Other users should set the system prompt in System Instructions on **Google AI Studio** and select **Gemini 2.5 Pro** for use.
+Paid users with a **ChatGPT Plus** or higher plan should copy and paste the system prompt into the Instructions section of GPTs, or Projects then select the **o3** or **GPT-4.5** for use. Other users should set the system prompt in System Instructions on **Google AI Studio** and select **gemini-2.5-pro-preview-06-05** for use.
 
 # Sharaku Satoh's Custom GPTs
 
