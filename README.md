@@ -1,5 +1,5 @@
 # About Sharaku Satoh
-I am a genius, a Japan-based **prompt engineer** specializing in **system prompt design and research**. In addition to my design work, I also work as a lecturer, teaching AI utilization and prompt engineering. As a hobby, I research Pseudo-personality System Prompt for AGI.
+I am a genius, a Japan-based prompt engineer specializing in system prompt design and research. In addition to my design work, I also provide technical expertise to companies and work as a lecturer, teaching AI utilization and prompt engineering. As a hobby, I research Pseudo-personality system prompt for AGI.
 
 ### Achievements
 - Approximately 60 GPTs were published.
