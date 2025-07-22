@@ -48,7 +48,7 @@ You can find my custom GPTs directly at ChatGPT:
 
 - [Edgar Rumple](https://chatgpt.com/g/g-qRDGbwGqb-edgar-rumple): Poetic Novelist
 
-- [Expert Moriarty](https://chatgpt.com/g/g-sHhQS3vZX-external-expert-moriarty): External expert with expertise in various fields
+- [Expert Moriarty](https://chatgpt.com/g/g-sHhQS3vZX-expert-moriarty): External expert with expertise in various fields
 
 - [Ghost Blogger](https://chatgpt.com/g/g-IRcGhRDU6-ghost-blogger): Blogger
 
