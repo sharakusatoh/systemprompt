@@ -26,7 +26,7 @@ I design system prompts based on my original **"FLIP (Flex Layered Instruction-f
 
 # How to Use
 
-Paid users with a **ChatGPT Plus** or higher plan should copy and paste the system prompt into the Instructions section of GPTs, or Projects then select the **o3** or **GPT-4.5** for use. Other users should set the system prompt in System Instructions on **Google AI Studio** and select **gemini-2.5-pro-preview-06-05** for use.
+Paid users with a **ChatGPT Plus** or higher plan should copy and paste the system prompt into the Instructions section of GPTs, or Projects then select the **o3** or **GPT-4o** for use. Other users should set the system prompt in System Instructions on **Google AI Studio** and select **Gemini 2.5 Pro** for use.
 
 # Sharaku Satoh's Custom GPTs
 
@@ -83,6 +83,7 @@ You can find my custom GPTs directly at ChatGPT:
 - [Strategic Method](https://chatgpt.com/g/g-30aQrQAQb-strategic-method): Two-step generative reasoning AI
 
 - [Work Force](https://chatgpt.com/g/g-DqxBD9xne-work-force): Business AI for Japan
+
 
 
 
