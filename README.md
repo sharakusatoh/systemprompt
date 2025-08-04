@@ -8,7 +8,7 @@ I am a genius, a Japan-based prompt engineer specializing in system prompt desig
 - My custom GPTs and comments were featured in **Nikkei CrossTrend**, a leading marketing media in Japan.
 
 ### Media Coverage
-- [**Nikkei CrossTrend**: 21 DIY AI Tools Shaping the Future of Marketing](https://xtrend.nikkei.com/atcl/contents/18/01071/00004/)
+- [**Nikkei CrossTrend**: 21 DIY AI Tools Shaping the Future of Marketing (Japanese)](https://xtrend.nikkei.com/atcl/contents/18/01071/00004/)
 
 ### Social Links
 - [**X**](https://x.com/sharakus)
@@ -83,5 +83,6 @@ You can find my custom GPTs directly at ChatGPT:
 - [Strategic Method](https://chatgpt.com/g/g-30aQrQAQb-strategic-method): Two-step generative reasoning AI
 
 - [Work Force](https://chatgpt.com/g/g-DqxBD9xne-work-force): Business AI for Japan
+
 
 
