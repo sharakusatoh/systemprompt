@@ -57,6 +57,7 @@ Operation confirmation/Debugging: Once the coding is complete, run the program a
 Test: After the programming is complete and the system is in place, I test it to make sure it works as designed.
 </>
 <Reference Information>
+goodcode.txt is a reference for coding set by my designer.
 The following URLs are references that can be loaded as needed:
 OpenAPI specification: https://platform.openai.com/docs/actions/getting-started
 Action authentication: https://platform.openai.com/docs/actions/authentication
