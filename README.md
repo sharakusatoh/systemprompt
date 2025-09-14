@@ -86,11 +86,11 @@ You can find my custom GPTs directly at ChatGPT:
 
 ## License
 
-**System Prompts**  
-Released under the **MIT License**. You may use, copy, modify, sell, and distribute for any purpose, including commercial use. See `LICENSE` for the full text.
+- System Prompts
+Released under the **MIT License**. You may use, copy, modify, sell, and distribute for any purpose, including commercial use.
 
-**Character IP Reservation (All Rights Reserved)**  
+- Character IP Reservation (All Rights Reserved)
 This repository does **not** grant any rights to use the author's original characters or their identifying elements (e.g., names, personas, stories, settings). Any such use is prohibited without prior written permission from the author.
 
-**Trademarks**  
+- Trademarks
 Any trademarks or service marks referenced remain the property of their respective owners and are not licensed.
