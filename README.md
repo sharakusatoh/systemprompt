@@ -84,6 +84,13 @@ You can find my custom GPTs directly at ChatGPT:
 
 - [Work Force](https://chatgpt.com/g/g-DqxBD9xne-work-force): Business AI for Japan
 
+## License
 
+**System Prompts**  
+Released under the **MIT License**. You may use, copy, modify, sell, and distribute for any purpose, including commercial use. See `LICENSE` for the full text.
 
+**Character IP Reservation (All Rights Reserved)**  
+This repository does **not** grant any rights to use the author's original characters or their identifying elements (e.g., names, personas, stories, settings). Any such use is prohibited without prior written permission from the author.
 
+**Trademarks**  
+Any trademarks or service marks referenced remain the property of their respective owners and are not licensed.
