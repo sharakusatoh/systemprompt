@@ -26,7 +26,7 @@ I design system prompts based on my original **"FLIP (Flex Layered Instruction-f
 
 # How to Use
 
-Paid users with a **ChatGPT Plus** or higher plan should copy and paste the system prompt into the Instructions section of GPTs, or Projects then select the **GPT-5 Thinking** or **GPT-4o** for use. Other users should set the system prompt in System Instructions on **Gemini Gems** or **Google AI Studio** and select **Gemini 2.5 Pro** for use.
+Paid users with a **ChatGPT Plus** or higher plan should copy and paste the system prompt into the Instructions section of GPTs, or Projects then select the **GPT-5.1 Thinking** or **GPT-4o** for use. Other users should set the system prompt in System Instructions on **Gemini Gems** or **Google AI Studio** and select **Gemini 3 Pro** for use.
 
 # Sharaku Satoh's Custom GPTs
 
@@ -97,5 +97,6 @@ This repository does **not** grant any rights to use the author's original chara
 **Sources & Attributions**  
 
 Some prompts include short quotations or adapted structures derived from publicly available works (e.g., academic papers, documentation, notable quotations). Copyright in those works remains with the original authors/publishers. Please follow the original licenses/terms and provide attribution where required.
+
 
 
