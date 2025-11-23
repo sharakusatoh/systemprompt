@@ -38,7 +38,7 @@ You can find my custom GPTs directly at ChatGPT:
 
 - [Oshiete AI by GMO (Japanese)](https://oshiete.ai/profiles/F5smI1a55WeeZ0aKHaa9n24)
 
-### Direct Links to GPTs
+### Direct Links to GPTs (ChatGPT)
 
 - [AcePilot](https://chatgpt.com/g/g-yDtIZx91o-acepilot): Systems Engineer and Programmer with autonomy and a sense of responsibility
 
@@ -84,6 +84,22 @@ You can find my custom GPTs directly at ChatGPT:
 
 - [Work Force](https://chatgpt.com/g/g-DqxBD9xne-work-force): Business AI for Japan
 
+### Direct Links to Gems (Gemini)
+
+- [Beautiful Dreamer](https://gemini.google.com/gem/1NdDmNRv9IBHTizgyC7mP36oNhXIi9SMm?usp=sharing): Maverick Genius Copywriter
+
+- [Edgar Rumple](https://gemini.google.com/gem/152OujKOK1SwmfTsixyEFM1pASf4lVC5-?usp=sharing): Poetic Novelist
+
+- [Hallucination Zero](https://gemini.google.com/gem/1KGuAnoS8Kxlg7fXJQSb3BpTuwQUOwcNZ?usp=sharing): Highly reliable AI
+
+- [Inspire Lestrade](https://gemini.google.com/gem/1EqOpkR-TI5EkKZ49YC4jU12jG-J09vGS?usp=sharing): The all-round Marketer
+
+- [Mycroft Debater](https://gemini.google.com/gem/1tEYIL1AmuB1cPIzR_ETvZV5HXYUqY4PI?usp=sharing): The Strongest Debater
+
+- [Sherlock Report](https://gemini.google.com/gem/1soAi74yjPARHCjxRu4VemFpAmkkneQX8?usp=sharing): Scientist, Researcher and writing support
+
+- [Work Force](https://gemini.google.com/gem/1oKskY7u_HlYcSWfpi6-EBw8VkRUCsA6i?usp=sharing): Business AI for Japan
+
 ## License
 
 **System Prompts**  
@@ -97,6 +113,7 @@ This repository does **not** grant any rights to use the author's original chara
 **Sources & Attributions**  
 
 Some prompts include short quotations or adapted structures derived from publicly available works (e.g., academic papers, documentation, notable quotations). Copyright in those works remains with the original authors/publishers. Please follow the original licenses/terms and provide attribution where required.
+
 
 
 
