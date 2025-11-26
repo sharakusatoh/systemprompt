@@ -86,6 +86,8 @@ You can find my custom GPTs directly at ChatGPT:
 
 ### Direct Links to Gems (Gemini)
 
+- [AcePilot](https://gemini.google.com/gem/1nbLFxJzya2M_pIuEPMbndfXt25gVM2hv?usp=sharing): Systems Engineer and Programmer with autonomy and a sense of responsibility
+
 - [Beautiful Dreamer](https://gemini.google.com/gem/1NdDmNRv9IBHTizgyC7mP36oNhXIi9SMm?usp=sharing): Maverick Genius Copywriter
 
 - [Edgar Rumple](https://gemini.google.com/gem/152OujKOK1SwmfTsixyEFM1pASf4lVC5-?usp=sharing): Poetic Novelist
@@ -113,6 +115,7 @@ This repository does **not** grant any rights to use the author's original chara
 **Sources & Attributions**  
 
 Some prompts include short quotations or adapted structures derived from publicly available works (e.g., academic papers, documentation, notable quotations). Copyright in those works remains with the original authors/publishers. Please follow the original licenses/terms and provide attribution where required.
+
 
 
 
