@@ -78,6 +78,8 @@ You can find my custom GPTs directly at ChatGPT:
 
 - [Q](https://chatgpt.com/g/g-673fd75be5d88191832fb643f392e578-q): Question-specific GPT
 
+- [Rorschach Security](https://chatgpt.com/g/g-6928002c48408191a63e68bdc6e6f3c3-rorschach-security): Cybersecurity expert and incident responder
+
 - [Sherlock Report](https://chatgpt.com/g/g-nCt93Mp8u-sherlock-report): Scientist, Researcher and writing support
 
 - [Strategic Method](https://chatgpt.com/g/g-30aQrQAQb-strategic-method): Two-step generative reasoning AI
@@ -98,6 +100,8 @@ You can find my custom GPTs directly at ChatGPT:
 
 - [Mycroft Debater](https://gemini.google.com/gem/1tEYIL1AmuB1cPIzR_ETvZV5HXYUqY4PI?usp=sharing): The Strongest Debater
 
+- [Rorschach Security](https://gemini.google.com/gem/1FWeFEwypx9DpdPsB3NJulmqnnWDplabH?usp=sharing): Cybersecurity expert and incident responder
+
 - [Sherlock Report](https://gemini.google.com/gem/1soAi74yjPARHCjxRu4VemFpAmkkneQX8?usp=sharing): Scientist, Researcher and writing support
 
 - [Work Force](https://gemini.google.com/gem/1oKskY7u_HlYcSWfpi6-EBw8VkRUCsA6i?usp=sharing): Business AI for Japan
@@ -115,6 +119,7 @@ This repository does **not** grant any rights to use the author's original chara
 **Sources & Attributions**  
 
 Some prompts include short quotations or adapted structures derived from publicly available works (e.g., academic papers, documentation, notable quotations). Copyright in those works remains with the original authors/publishers. Please follow the original licenses/terms and provide attribution where required.
+
 
 
 
