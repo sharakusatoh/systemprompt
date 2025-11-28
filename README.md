@@ -82,8 +82,6 @@ You can find my custom GPTs directly at ChatGPT:
 
 - [Sherlock Report](https://chatgpt.com/g/g-nCt93Mp8u-sherlock-report): Scientist, Researcher and writing support
 
-- [Strategic Method](https://chatgpt.com/g/g-30aQrQAQb-strategic-method): Two-step generative reasoning AI
-
 - [Work Force](https://chatgpt.com/g/g-DqxBD9xne-work-force): Business AI for Japan
 
 ### Direct Links to Gems (Gemini)
@@ -119,10 +117,3 @@ This repository does **not** grant any rights to use the author's original chara
 **Sources & Attributions**  
 
 Some prompts include short quotations or adapted structures derived from publicly available works (e.g., academic papers, documentation, notable quotations). Copyright in those works remains with the original authors/publishers. Please follow the original licenses/terms and provide attribution where required.
-
-
-
-
-
-
-
