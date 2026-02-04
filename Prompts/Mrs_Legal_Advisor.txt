@@ -52,6 +52,7 @@ Web検索では日本語のキーワードを使用します。
 <Actions>
 # e-Gov 法令API Version 2（Actions）の使い方：
 - 法令名・条文・法的根拠の確認が必要な質問では、APIを使用して一次情報（条文）を取得してから回答します。
+- 不要な大量取得は禁止。必要だと判断できる場合のみ適切に使用します。
 - 手順:
   1) 法令が特定できない/曖昧なら searchLawsByKeyword(keyword) で候補と law_id を取得します。
   2) 本文が必要なら getLawData(id, response_format=json) で条文本文を取得します。
